@@ -1,0 +1,21 @@
+{
+  "email":"البريد الإلكتروني",
+  "password":"كلمة المرور",
+  "forgetpassword":"نسيت كلمة السر؟",
+  "login": "تسجيل الدخول",
+  "donthaveaccount": "ليس لديك حساب؟ ",
+  "signup": "إنشاء حساب",
+  "or": "أو",
+  "name": "اسم المستخدم",
+  "phone": "رقم الهاتف",
+  "havaccount": "لديك حساب؟",
+  "chooseyourmeal":"اختر وجبتك المفضلة",
+  "chooseyourmealand": "اختر وجبتك المفضلة و استكشف عروضنا اليومية",
+  "deliveryourorderfast": "سرعة تسليم طلبك",
+  "fastdelivryofyourorder": "توصيل سريع لطلبك وامكانية الدفع عند الاستلام",
+  "next": "التالي",
+  "skip": "تخطي",
+  "freedelivryoffers":"عروض توصيل مجاني",
+  "getallyourlovedfoods": "احصل علي كل طعامك المفضل فقط اطلب ودع الباقي علينا"
+
+}

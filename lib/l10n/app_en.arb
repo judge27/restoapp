@@ -1,0 +1,21 @@
+{
+  "email":"Email",
+  "password":"Password",
+  "forgetpassword":"Forget Password?",
+  "login": "Login",
+  "donthaveaccount": "Don't have account? Sign up",
+  "signup": "Sign Up",
+  "or": "Or",
+  "name": "Name",
+  "phone": "Phone number",
+  "havaccount": "Have an account",
+  "chooseyourmeal":"Choose Your Favourite Meal",
+  "chooseyourmealand": "Choose your favourite meal and explore\n                 our daily offers",
+  "deliveryourorderfast": "Deliver your order fast",
+  "fastdelivryofyourorder": "Fast delivery of your order and available \n            cash on delivry ",
+  "next": "Next",
+  "skip": "Skip",
+  "freedelivryoffers":"Free delivery offers",
+  "getallyourlovedfoods": "Get all your loved foods in one once place                      \nyou just place the order we do the rest"
+
+}

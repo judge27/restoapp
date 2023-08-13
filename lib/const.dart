@@ -1,0 +1,10 @@
+String pizza ="assets/images/pizza.png";
+String bruger="assets/images/bruger.png";
+String coffee="assets/images/coffee.png";
+String pasta="assets/images/pasta.png";
+String crepe="assets/images/crepe.jpg";
+String meals="assets/images/meals.png";
+String big="assets/images/big.jpeg";
+String avatar="assets/images/avatar.jpeg";
+String mastercard="assets/images/mastercard.png";
+String party="assets/images/party.png";
